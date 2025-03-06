@@ -1,3 +1,3 @@
 # Chinu
 This is my first Git Repo
-A-CHINU
+A-CHINU(chniao)
